@@ -83,7 +83,7 @@ X_test = scaler.transform(X_test)
 knn = KNeighborsClassifier(
     n_neighbors=5,
     metric="minkowski",
-    p=2aa
+    p=2aaag
 )
 
 knn.fit(X_train, y_train)
