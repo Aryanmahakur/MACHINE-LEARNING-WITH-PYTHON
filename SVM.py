@@ -74,7 +74,7 @@ plt.scatter(
 plt.title("Linear SVM")
 plt.xlabel("Feature 1")
 plt.ylabel("Feature 2")
-plt.legend()
+plt.legend()s
 plt.grid(True)
 
 plt.show()
